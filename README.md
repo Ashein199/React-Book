@@ -1,3 +1,3 @@
-# React Book by Ei Maung
+# React Book
 
 ## Source Code
